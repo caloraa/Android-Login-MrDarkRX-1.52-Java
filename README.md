@@ -13,7 +13,7 @@
 
 <p align="center">
 
-- 👤 My name is caloraa
+- 👤 My name is Caloraメ
 - 💌 I am 16 years old 
 - 👨‍💻 I am not programmer
 
