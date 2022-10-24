@@ -38,7 +38,7 @@
 
 ❏  ```Example Login 01```
 <p align="center">
-  <a href="https://github.com/caloraa/Android-Login-PSTeam-Java"><img src="https://j.top4top.io/p_2350sa7et9.jpg" />
+  <a href="https://github.com/caloraa/Android-Login-MrDarkRX-1.52-Java"><img src="https://i.top4top.io/p_2488vnlii0.jpg" />
 </p>
 
 ------
@@ -47,16 +47,7 @@
 
 ❏  ```Example Login 02```
 <p align="center">
-  <a href="https://github.com/caloraa/Android-Login-PSTeam-Java"><img src="https://g.top4top.io/p_2350fe2xa9.jpg" />
-</p>
-
-------
-
-### Example Login---|
-
-❏  ```Example Login 03```
-<p align="center">
-  <a href="https://github.com/caloraa/Android-Login-PSTeam-Java"><img src="https://k.top4top.io/p_2350mp7w19.jpg" />
+  <a href="https://github.com/caloraa/Android-Login-MrDarkRX-1.52-Java"><img src="https://d.top4top.io/p_2488oh7xa9.jpg" />
 </p>
 
 ------
