@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Android+Login+Gods+Team+Java"
-            alt="XyChann`"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Android+Login+MrDarkRX+1.52+Java"
+            alt="Calora`"
         />
     </a>
 </p>
@@ -31,11 +31,6 @@
   <a href="https://github.com/caloraa"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCsT1hWQcTO4QAvdX0eIhkZg"><img src="https://img.shields.io/youtube/channel/subscribers/UCsT1hWQcTO4QAvdX0eIhkZg?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=caloraa&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=caloraa&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-
-### @thuychaang
-<p align="center">
-  <img src="https://github.com/caloraa/caloraa/blob/master/thuychaang.gif" />
 </p>
 
 ------
